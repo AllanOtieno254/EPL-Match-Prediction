@@ -1,0 +1,18 @@
+EPL-Match-Prediction/
+│
+├── data/                    # Directory for data files
+│   └── premier_league_matches.csv  # Raw data file
+│
+├── notebooks/               # Jupyter notebooks or scripts
+│   └── epl_prediction_model.ipynb  # Main prediction notebook
+│
+├── src/                     # Source code
+│   ├── model.py             # Machine learning model code
+│   ├── data_preprocessing.py # Data preprocessing scripts
+│   └── utils.py             # Utility functions
+│
+├── requirements.txt         # Python package dependencies
+│
+├── LICENSE                  # License file
+│
+└── README.md                # Project README file
